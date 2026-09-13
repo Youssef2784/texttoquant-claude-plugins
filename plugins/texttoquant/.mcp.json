@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "texttoquant": {
+      "type": "http",
+      "url": "https://www.texttoquant.com/api/mcp"
+    }
+  }
+}
