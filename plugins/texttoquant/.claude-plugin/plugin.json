@@ -1,0 +1,16 @@
+{
+  "name": "texttoquant",
+  "version": "1.0.0",
+  "description": "Backtest plain-English trading strategies on real market data: graded results, honesty flags, parameter sweeps, walk-forward, regime edge, custom indicators (JS/Python/Pine/CSV), portfolios, Pine export, shareable reports.",
+  "author": { "name": "Spekule", "url": "https://www.texttoquant.com" },
+  "homepage": "https://www.texttoquant.com/docs/api/mcp",
+  "repository": "https://github.com/Youssef2784/texttoquant-claude-plugins",
+  "license": "MIT",
+  "keywords": ["backtesting", "trading", "quant", "mcp"],
+  "mcpServers": {
+    "texttoquant": {
+      "type": "http",
+      "url": "https://www.texttoquant.com/api/mcp"
+    }
+  }
+}
